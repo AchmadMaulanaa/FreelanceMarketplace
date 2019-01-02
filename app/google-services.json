@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "891252547121",
+    "firebase_url": "https://freelancemarketplace-4b8eb.firebaseio.com",
+    "project_id": "freelancemarketplace-4b8eb",
+    "storage_bucket": "freelancemarketplace-4b8eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891252547121:android:4ab94e5d92507e2c",
+        "android_client_info": {
+          "package_name": "com.example.asus.freelancemarketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891252547121-0ifcofea2ie6cji1m1precpg2va8v0jb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.freelancemarketplace",
+            "certificate_hash": "5379da1761fc638223b7aedb86f3466fce2bdb49"
+          }
+        },
+        {
+          "client_id": "891252547121-10drkjdvntp17662uaahosfdfq9dbq63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3gCWNXWyHAv2XRKR97SCXMcGHr-8izJY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891252547121-10drkjdvntp17662uaahosfdfq9dbq63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
